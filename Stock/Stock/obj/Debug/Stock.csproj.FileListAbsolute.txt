@@ -1,0 +1,11 @@
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe.config
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.exe
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\bin\Debug\Stock.pdb
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csprojResolveAssemblyReference.cache
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Login.resources
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Properties.Resources.resources
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.csproj.GenerateResource.Cache
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.exe
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.pdb
+c:\users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.StockMain.resources
+C:\Users\fritz\documents\visual studio 2015\Projects\Stock\Stock\obj\Debug\Stock.Products.resources
